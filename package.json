@@ -1,0 +1,8 @@
+{
+  "name": "lc79-777-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "playwright": "^1.48.0" },
+  "engines": { "node": ">=20" }
+}
